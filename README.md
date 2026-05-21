@@ -3,7 +3,7 @@
 
 # PDAN8411 Part 2 – Breast Cancer Classification Project
 
-## Project Overview
+## Project Overview (report summary)
 
 This project was developed for the PDAN8411 module and focuses on building and improving a machine learning classification model for breast cancer prediction. The project simulates a healthcare and medical aid environment where predictive analytics can assist with early cancer detection and operational decision-making.
 
